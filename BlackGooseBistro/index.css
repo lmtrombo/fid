@@ -12,7 +12,7 @@ header {
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
-  background-color: rgba(92,189,179,.5);
+  background-color: rgba(92,189,179,1);
 }
 
 a {
