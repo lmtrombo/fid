@@ -35,14 +35,14 @@ a:active {
 h1 {
   font: bold 1.5em Georgia, serif;
   text-shadow: .05em .05em .1em lightslategray;
-  color: #4f4a4a;
+  color: #ffda94;
 }
 h2 {
   font-size: 1em;
   text-transform: uppercase;
   letter-spacing: .5em;
   text-align: center;
-  color: #4f4a4a;
+  color: #75d9cf;
 }
 dt {
   font-weight: bold;
