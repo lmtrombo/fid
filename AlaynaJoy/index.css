@@ -4,8 +4,8 @@ body {
   font-size: 100%;
   line-height: 175%;
   margin: 0 15% 0;
-  background-color: #ffdd9e
-  background: #d2dc9d url(images/rainbow.png)repeat;
+  background: url(images/rainbow.png)repeat;
+  background-color:  #d2dc9d;
 }
 header {
   margin-top: 0;
