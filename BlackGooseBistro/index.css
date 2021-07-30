@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: Georgia, serif;
+  font-family: 'Gowun Dodum', sans-serif;
   font-size: 100%;
   text-align: center;
   line-height: 175%;
@@ -9,6 +9,7 @@ background: #ffc354
 }
 
 header {
+  font-family: 'Poppins', sans-serif;
   margin-top: 0;
   padding: 3em 1em 2em 1em;
   text-align: center;
