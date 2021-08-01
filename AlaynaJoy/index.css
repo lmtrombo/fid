@@ -6,9 +6,10 @@ body {
   text-align: center;
   margin: 0 15% 0;
   font-weight: 100%;
-  background-image: url(images/pattern1.jpg)opacity:.02; 
+  background-image: url(images/pattern1.jpg)opacity:.2; 
   background-repeat: repeat;
   background-position: center top;
+  bacground-color: #b5e89e;
 }
 header {
   margin-top: 0;
