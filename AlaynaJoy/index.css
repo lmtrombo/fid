@@ -6,8 +6,7 @@ body {
   text-align: center;
   margin: 0 15% 0;
   font-weight: 100%;
-  background-image: url(images/pattern1.jpg); 
-    opacity:0.2;
+  background-image: url(images/pattern1.jpg)opacity:.02; 
   background-repeat: repeat;
   background-position: center top;
 }
